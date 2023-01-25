@@ -1,0 +1,9 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 October 2019, 20 October 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 October 2019, 25 October 2019, No
+alina, Shopping, Buy stuff to make pasta dinner, 18 November 2022, 17 November 2022, No
+chris, Fix tap, Buy replacement washer and install, 17 November 2022, 17 November 2022, Yes
+chris, Gardening, Mow the lawn + weed the beds + water plants, 22 December 2022, 28 November 2022, Yes
+sam, Job Search, apply for three jobs on linkedin, 31 December 2022, 06 January 2023, No
+sam, Clean Bathroom, Clean the shower and wash the towels, 01 December 2022, 30 November 2022, No
+chris, Fitness program, Write up a fitness program for half marathon prep, 06 December 2022, 30 November 2022, No
+sally, Sun Study, Complete the sun study for the house project in accordance with policy requirements, 19 December 2022, 02 December 2022, No

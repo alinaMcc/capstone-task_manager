@@ -1,0 +1,35 @@
+admin:
+Total tasks assigned to admin:_______________________________________2
+Percentage of total tasks assigned to admin:_________________________22.22%
+Percentage of tasks assigned to admin that are complete:_____________0%
+Percentage of tasks assigned to admin that are incomplete:___________100.0%
+Percentage of incomplete tasks assigned to admin which are overdue:__100.0%
+
+alina:
+Total tasks assigned to alina:_______________________________________1
+Percentage of total tasks assigned to alina:_________________________11.11%
+Percentage of tasks assigned to alina that are complete:_____________0%
+Percentage of tasks assigned to alina that are incomplete:___________100.0%
+Percentage of incomplete tasks assigned to alina which are overdue:__100.0%
+
+chris:
+Total tasks assigned to chris:_______________________________________3
+Percentage of total tasks assigned to chris:_________________________33.33%
+Percentage of tasks assigned to chris that are complete:_____________2%
+Percentage of tasks assigned to chris that are incomplete:___________33.33%
+Percentage of incomplete tasks assigned to chris which are overdue:__0.0%
+
+sam:
+Total tasks assigned to sam:_______________________________________2
+Percentage of total tasks assigned to sam:_________________________22.22%
+Percentage of tasks assigned to sam that are complete:_____________0%
+Percentage of tasks assigned to sam that are incomplete:___________100.0%
+Percentage of incomplete tasks assigned to sam which are overdue:__50.0%
+
+sally:
+Total tasks assigned to sally:_______________________________________1
+Percentage of total tasks assigned to sally:_________________________11.11%
+Percentage of tasks assigned to sally that are complete:_____________0%
+Percentage of tasks assigned to sally that are incomplete:___________100.0%
+Percentage of incomplete tasks assigned to sally which are overdue:__0.0%
+
